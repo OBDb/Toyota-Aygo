@@ -10,5 +10,14 @@ test_cases:
     TOYOTA_FLI_VOL: 3.69881
   response: 7C80361291C
 - expected_values:
+    TOYOTA_FLI_VOL: 5.15192
+  response: 7C803612927
+- expected_values:
+    TOYOTA_FLI_VOL: 5.54822
+  response: 7C80361292A
+- expected_values:
+    TOYOTA_FLI_VOL: 6.20872
+  response: 7C80361292F
+- expected_values:
     TOYOTA_FLI_VOL: 8.71863
   response: 7C803612942
