@@ -1,0 +1,23 @@
+command_id: 7B0.7B8.2146
+test_cases:
+- expected_values:
+    AYGO_ZP_DEC: 0
+    AYGO_ZP_DEC2: -0.02
+    AYGO_ZP_YAW: 0
+  response: |-
+    7B81009614600FF807F
+    7B821C4081F00000000
+- expected_values:
+    AYGO_ZP_DEC: 0
+    AYGO_ZP_DEC2: -0.02
+    AYGO_ZP_YAW: 0
+  response: |-
+    7B81009614600FF807F
+    7B821C4090100000000
+- expected_values:
+    AYGO_ZP_DEC: 0
+    AYGO_ZP_DEC2: -0.02
+    AYGO_ZP_YAW: 0
+  response: |-
+    7B81009614600FF807F
+    7B821C40B1F00000000

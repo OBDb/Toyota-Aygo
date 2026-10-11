@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2128|f=2010-
+test_cases:
+- expected_values:
+    AYGO_ODO: 172445
+  response: 7E805612802A19D
+- expected_values:
+    AYGO_ODO: 172542
+  response: 7E805612802A1FE
+- expected_values:
+    AYGO_ODO: 177675
+  response: 7E805612802B60B
+- expected_values:
+    AYGO_ODO: 179146
+  response: 7E805612802BBCA

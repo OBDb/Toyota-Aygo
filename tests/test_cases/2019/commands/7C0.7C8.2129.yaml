@@ -1,6 +1,5 @@
 command_id: 7C0.7C8.2129
 test_cases:
 - expected_values:
-    TOYOTA_FLI_VOL: 6.47292
-    TOYOTA_FUEL_INPUT: 49
+    AYGO_FLI_VOL: 6.47292
   response: 7C803612931

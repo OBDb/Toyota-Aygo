@@ -1,0 +1,11 @@
+command_id: 7D0.7D8.2162
+test_cases:
+- expected_values:
+    AYGO_PARKING_BRAKE: 0
+  response: 7D80461621100
+- expected_values:
+    AYGO_PARKING_BRAKE: 0
+  response: 7D80461621173
+- expected_values:
+    AYGO_PARKING_BRAKE: 0
+  response: 7D80461621D04
