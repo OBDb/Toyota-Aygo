@@ -1,0 +1,16 @@
+command_id: 7B0.7B8.213D
+test_cases:
+- expected_values:
+    AYGO_ABS_WARN: 0
+    AYGO_BRAKE_WARN: 0
+    AYGO_BUZZER: 0
+    AYGO_ECB_WARN: 0
+    AYGO_SLIP_WARN: 0
+  response: 7B804613D0000
+- expected_values:
+    AYGO_ABS_WARN: 0
+    AYGO_BRAKE_WARN: 0
+    AYGO_BUZZER: 0
+    AYGO_ECB_WARN: 0
+    AYGO_SLIP_WARN: 0
+  response: 7B804613D0800

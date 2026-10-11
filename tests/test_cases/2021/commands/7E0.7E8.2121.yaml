@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2121
+test_cases:
+- expected_values:
+    AYGO_CC_S: 0
+  response: 7E807612100003DC840
+- expected_values:
+    AYGO_CC_S: 0
+  response: 7E80761210000FFC800
+- expected_values:
+    AYGO_CC_S: 11
+  response: 7E8076121000B1EC840
+- expected_values:
+    AYGO_CC_S: 45
+  response: 7E8076121002D1E0040
+- expected_values:
+    AYGO_CC_S: 113
+  response: 7E80761210071FFC800
+- expected_values:
+    AYGO_CC_S: 86
+  response: '7E80761210856360040'

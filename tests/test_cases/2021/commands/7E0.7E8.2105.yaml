@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2105
+test_cases:
+- expected_values:
+    AYGO_CAT_T_B1S1: 179.8
+  response: '7E806610502580896'
+- expected_values:
+    AYGO_CAT_T_B1S1: 343.9
+  response: 7E806610513FD0EFF
+- expected_values:
+    AYGO_CAT_T_B1S1: 369.6
+  response: 7E806610515C11000
+- expected_values:
+    AYGO_CAT_T_B1S1: 417.6
+  response: 7E8066105160011E0
+- expected_values:
+    AYGO_CAT_T_B1S1: 466.7
+  response: 7E806610516FE13CB
+- expected_values:
+    AYGO_CAT_T_B1S1: 835.5
+  response: 7E8066105240A2233
+- expected_values:
+    AYGO_CAT_T_B1S1: 859.9
+  response: 7E8066105247A2327

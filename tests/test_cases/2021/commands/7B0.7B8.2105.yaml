@@ -1,0 +1,68 @@
+command_id: 7B0.7B8.2105
+test_cases:
+- expected_values:
+    AYGO_DECEL: -4.34894
+    AYGO_DECEL_2: -0.21388
+  response: |-
+    7B810096105617E07F2
+    7B8210B032000000000
+- expected_values:
+    AYGO_DECEL: -3.20824
+    AYGO_DECEL_2: -0.21388
+  response: |-
+    7B810096105697E0790
+    7B8210F02C000000000
+- expected_values:
+    AYGO_DECEL: -1.78235
+    AYGO_DECEL_2: -0.35647
+  response: |-
+    7B810096105737D034B
+    7B82100000000000000
+- expected_values:
+    AYGO_DECEL: -1.49718
+    AYGO_DECEL_2: 1.78235
+  response: |-
+    7B810096105758C1485
+    7B8218C09E000000000
+- expected_values:
+    AYGO_DECEL: -0.35647
+    AYGO_DECEL_2: 2.78047
+  response: |-
+    7B8100961057D9307C4
+    7B821770A6000000000
+- expected_values:
+    AYGO_DECEL: -0.21388
+    AYGO_DECEL_2: -0.21388
+  response: |-
+    7B8100961057E7E0348
+    7B82100FFE000000000
+- expected_values:
+    AYGO_DECEL: 0.07129
+    AYGO_DECEL_2: -3.49341
+  response: |-
+    7B8100961058067035F
+    7B82100FFE000000000
+- expected_values:
+    AYGO_DECEL: 0.07129
+    AYGO_DECEL_2: -0.21388
+  response: |-
+    7B810096105807E0000
+    7B82100000000000000
+- expected_values:
+    AYGO_DECEL: 0.21388
+    AYGO_DECEL_2: 1.06941
+  response: |-
+    7B810096105818707FF
+    7B82158080000000000
+- expected_values:
+    AYGO_DECEL: 0.64165
+    AYGO_DECEL_2: 2.21012
+  response: |-
+    7B810096105848F069C
+    7B821C808C000000000
+- expected_values:
+    AYGO_DECEL: 3.20824
+    AYGO_DECEL_2: -0.07129
+  response: |-
+    7B810096105967F084B
+    7B8210E03C000000000

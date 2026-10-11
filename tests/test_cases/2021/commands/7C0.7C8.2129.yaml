@@ -1,0 +1,8 @@
+command_id: 7C0.7C8.2129
+test_cases:
+- expected_values:
+    AYGO_FLI_VOL: 0.3963
+  response: 7C803612903
+- expected_values:
+    AYGO_FLI_VOL: 7.39762
+  response: 7C803612938

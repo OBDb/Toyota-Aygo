@@ -1,0 +1,56 @@
+command_id: 7B0.7B8.2147
+test_cases:
+- expected_values:
+    AYGO_LAT_G: 0
+    AYGO_LNG_G: 0
+    AYGO_STEER_ANGLE: -93
+    AYGO_YAW_RATE: -7
+  response: 7B80761470000797C5E
+- expected_values:
+    AYGO_LAT_G: 0
+    AYGO_LNG_G: 0
+    AYGO_STEER_ANGLE: 0
+    AYGO_YAW_RATE: 0
+  response: 7B80761470000808000
+- expected_values:
+    AYGO_LAT_G: 0
+    AYGO_LNG_G: -0.04
+    AYGO_STEER_ANGLE: -427.5
+    AYGO_YAW_RATE: 10
+  response: 7B807614700FE8A6F4D
+- expected_values:
+    AYGO_LAT_G: 0
+    AYGO_LNG_G: -0.02
+    AYGO_STEER_ANGLE: -4.5
+    AYGO_YAW_RATE: -2
+  response: 7B807614700FF7E7FD3
+- expected_values:
+    AYGO_LAT_G: 0.04
+    AYGO_LNG_G: 0.02
+    AYGO_STEER_ANGLE: 468
+    AYGO_YAW_RATE: -17
+  response: 7B807614702016F9248
+- expected_values:
+    AYGO_LAT_G: 0.08
+    AYGO_LNG_G: 0.04
+    AYGO_STEER_ANGLE: 25.5
+    AYGO_YAW_RATE: 4
+  response: 7B807614704028480FF
+- expected_values:
+    AYGO_LAT_G: 0.24
+    AYGO_LNG_G: -0.06
+    AYGO_STEER_ANGLE: 285
+    AYGO_YAW_RATE: 28
+  response: 7B80761470CFD9C8B22
+- expected_values:
+    AYGO_LAT_G: -0.38
+    AYGO_LNG_G: 0.02
+    AYGO_STEER_ANGLE: -379.5
+    AYGO_YAW_RATE: -46
+  response: 7B8076147ED0152712D
+- expected_values:
+    AYGO_LAT_G: -0.02
+    AYGO_LNG_G: 0
+    AYGO_STEER_ANGLE: -87
+    AYGO_YAW_RATE: -2
+  response: 7B8076147FF007E7C9A
